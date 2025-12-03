@@ -18,7 +18,7 @@
     "href": "index.html#learning-objectives",
     "title": "Introduction to Docker",
     "section": "Learning Objectives",
-    "text": "Learning Objectives\nBy the end of this workshop, you will know how to:\n\nHave an understanding of what Docker containers are, why they are useful and the common terminology used\nHave a working Docker installation on your local system to allow you to use containers\nUnderstand how to use existing Docker containers for common tasks\nBe able to build your own Docker containers by understanding both the role of a Dockerfile in building containers, and the syntax used in Dockerfiles\nUnderstand how to manage Docker containers on your local system\nAppreciate issues around reproducibility in software, understand how containers can address some of these issues and what the limits to reproducibility using containers are"
+    "text": "Learning Objectives\nBy the end of this workshop, you will:\n\nHave an understanding of what Docker containers are, why they are useful and the common terminology used\nHave a working Docker installation on your local system to allow you to use containers\nUnderstand how to use existing Docker containers for common tasks\nBe able to build your own Docker containers by understanding both the role of a Dockerfile in building containers, and the syntax used in Dockerfiles\nUnderstand how to manage Docker containers on your local system\nAppreciate issues around reproducibility in software, understand how containers can address some of these issues and what the limits to reproducibility using containers are"
   },
   {
     "objectID": "index.html#course-outline",
