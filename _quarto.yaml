@@ -48,3 +48,6 @@ jupyter: python3
 
 metadata-files:
   - _variables.yml
+
+resources:
+    - episodes/files/docker-intro.zip
