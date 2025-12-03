@@ -46,7 +46,7 @@ Please seek help at the start of the lesson if you have not been able to establi
 
 ### Files to download
 
-Download the [`docker-intro.zip`](episodes/files/docker-intro.zip) file. Move the downloaded file to your Desktop and unzip it. It should unzip to a folder called `docker-intro`.
+Download the [`docker-intro.zip`](/docker-intro/episodes/files/docker-intro.zip) file. Move the downloaded file to your Desktop and unzip it. It should unzip to a folder called `docker-intro`.
 
 ### Software to install
 
