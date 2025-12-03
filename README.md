@@ -7,7 +7,7 @@ The practical work in this lesson is primarily aimed at using Docker on your own
 
 ## Learning Objectives
 
-By the end of this workshop, you will know how to:
+By the end of this workshop, you will:
 
 - Have an understanding of what Docker containers are, why they are useful
   and the common terminology used
