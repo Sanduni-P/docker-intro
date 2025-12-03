@@ -213,7 +213,7 @@ Notice that the final input to `docker image build` isn't the Dockerfile -- it's
 a directory! In the command above, we've used the current working directory (`.`) of
 the shell as the final input to the `docker image build` command. This option provides
 what is called the *build context* to Docker -- if there are files being copied
-into the built container image [more details in the next episode](advanced-containers.md)
+into the built container image [more details in the next episode](07-advanced-containers.qmd)
 they're assumed to be in this location. Docker expects to see a Dockerfile in the
 build context also (unless you tell it to look elsewhere).
 
