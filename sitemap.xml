@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>git@github-work:Sanduni-P/docker-intro.git/index.html</loc>
-    <lastmod>2025-12-03T00:43:23.360Z</lastmod>
+    <lastmod>2025-12-03T01:00:52.264Z</lastmod>
   </url>
   <url>
     <loc>git@github-work:Sanduni-P/docker-intro.git/episodes/08-docker-image-examples.html</loc>
@@ -34,7 +34,7 @@
   </url>
   <url>
     <loc>git@github-work:Sanduni-P/docker-intro.git/episodes/06-creating-container-images.html</loc>
-    <lastmod>2025-12-03T00:27:25.450Z</lastmod>
+    <lastmod>2025-12-03T00:58:36.467Z</lastmod>
   </url>
   <url>
     <loc>git@github-work:Sanduni-P/docker-intro.git/episodes/02-meet-docker.html</loc>
